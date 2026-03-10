@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Amaan Mohammed Khan 👋<br><br>Final-Year B.Tech CSE (Data Science) student focused on building scalable software systems, data pipelines, and full-stack applications.<br><br>I enjoy working across the entire engineering stack — from designing intuitive frontends to building distributed backend services and high-performance data workflows.<br><br>Areas of Interest<br>• Software Development Engineering<br>• Data Engineering & ETL Pipelines<br>• Cloud-Native Architectures<br>• Scalable Backend Systems<br>• System Design<br><br>Always exploring new technologies and improving my engineering skills through real-world projects.
 
 
